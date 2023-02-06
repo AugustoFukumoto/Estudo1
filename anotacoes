@@ -1,0 +1,24 @@
+ o que é logarítimo: sequencia e definição. 
+
+ algoritmos
+
+fluxograma = 
+
+ex: for ( let i = 0, i <= 10; i++){
+console.log(i);
+}
+
+
+algoritmo de seleção
+selection sort = organizar ou tipo de organização
+insertion sort
+quick sort 
+radix sort
+
+
+
+variavel.push('algum nome') **vai acrencentar a frase ou numero que coloquei nos parenteses
+variavel.splice(2) ** deletar na lista o que coloquei nos parenteses.
+console.log(exemplo.lenght) quantidade de valores ou dados contido no array. 
+ex: const numero = [ 1, 2, 3, 4]; colocando o console.log(numero.lenght) *****4
+.pop vai deletar o ultimo da sequencia ex: numero.pop() na sequencida de cima vai apagar o numero 4.
