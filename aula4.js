@@ -14,3 +14,9 @@ for(let atual = posicaoInicial; atual < arrProdutos.length; atual++){
 
 
 module.exports = aula4;
+
+
+
+
+
+
